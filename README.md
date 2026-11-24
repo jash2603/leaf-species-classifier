@@ -17,7 +17,7 @@ A Convolutional Neural Network (CNN) that identifies which plant a leaf belongs 
 
 ## Model
 - Framework: TensorFlow / Keras
-- Architecture: CNN (___ conv layers, ___ dense layers)
+- Architecture: CNN (3 conv layers, 2 dense layers)
 - Input size: 128 × 128 × 3
 - Epochs: 60
 - Batch size: 32
